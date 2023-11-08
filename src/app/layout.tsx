@@ -14,6 +14,7 @@ export const metadata = {
     default: "Drill Dice"
   },
   description: "Drill Dice - Pick a random drill for your climbing workout",
+  manifest: "/manifest.json"
 };
 
 export default function RootLayout({

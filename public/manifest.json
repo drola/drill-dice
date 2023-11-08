@@ -1,0 +1,10 @@
+{
+  "name": "Drill Dice",
+  "short_name": "DrillDice",
+  "icons": [],
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
