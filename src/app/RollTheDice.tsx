@@ -29,8 +29,8 @@ export default function RollTheDice({ again }: RollTheDiceProps) {
         position: "fixed",
         bottom: (theme) => theme.spacing(2),
 				m: '0 auto',
-				left: 0,
-				right: 0
+				left: theme => theme.spacing(2),
+				right: theme => theme.spacing(2)
       }}
       color="primary"
       variant="extended"
